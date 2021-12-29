@@ -1,0 +1,14 @@
+#toggle{
+    margin:auto;
+    height:18px;
+    width:60px;
+    position: relative;
+    border:2px solid;
+    border-radius:10px;
+  }
+  #ball{
+    margin:auto;
+    }
+  .fa-circle{
+    margin-left:2px;
+  }
